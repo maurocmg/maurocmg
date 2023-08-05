@@ -26,10 +26,11 @@ Pi-Henry es una plataforma para consultar datos sobre distintos videojuegos. Asi
 
 
 
-//To Do: Ampliar perfi y traducir a inglés
-### Hi there 👋
+
 
 <!--
+//To Do: Ampliar perfi y traducir a inglés
+### Hi there 👋
 **maurocmg/maurocmg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
